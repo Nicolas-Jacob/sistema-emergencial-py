@@ -67,7 +67,7 @@ sistema_emergencial/
 
 - Clone o repositório
 - Abra o GitBash
-- git clone https://github.com/seu-usuario/sistema_emergencial.git
+- git clone https://github.com/Nicolas-Jacob/sistema-emergencial-py
 - cd sistema_emergencial
 - Certifique-se de estar com o Python 3.11+ instalado: python --version
 - Execute o sistema pelo terminal: python main.py
